@@ -7,4 +7,4 @@ Django
 <br/> Python
 <br/> Django auth
 <br/> Docker 
-<br/ > Deployed on heroku at : https://thetouristguides.herokuapp.com
+<br/> Deployed on heroku at : https://thetouristguides.herokuapp.com
